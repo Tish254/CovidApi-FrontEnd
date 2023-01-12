@@ -1,5 +1,5 @@
 # CyHeath Covid19 Tracker
-### Sasakazi - Coding Challenge
+### Sasakazi - Coding Test
 
 #### **Description**
 ```

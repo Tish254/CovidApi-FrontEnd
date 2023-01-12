@@ -52,7 +52,7 @@ const AppLayout = () => {
             textAlign: "center",
           }}
         >
-          Covid-19 Tracker ©2022 Created by Oscar Tiego
+          Covid-19 Tracker ©{new Date().getFullYear()} Created by Oscar Tiego
         </Footer>
       </Layout>
     </>
